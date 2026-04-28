@@ -44,3 +44,4 @@ Thumbs.db
 
 # Fichiers temporaires ou spécifiques au projet si besoin
 # BDD/dump.sql # Décommenter si le dossier BDD contient des dumps SQL à ignorer
+/Trash
